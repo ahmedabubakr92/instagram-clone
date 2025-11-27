@@ -4,7 +4,7 @@ A fully functional, responsive Instagram feed clone built as a solo project for 
 
 This project transitions from static HTML/CSS to a dynamic JavaScript application, rendering post data from an array of objects and handling user interactions via the DOM.
 
-**[🔴 LIVE DEMO LINK HERE]([https://your-netlify-link.app](https://calm-hamster-c88118.netlify.app))** 
+**[🔴 LIVE DEMO LINK HERE](https://calm-hamster-c88118.netlify.app)** 
 
 ## 📱 Features
 
